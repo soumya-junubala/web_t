@@ -169,33 +169,6 @@
         <p>[8]R. Bhaskar, “Better cybersecurity awareness through research,” ISACA J., vol. 3, May 2022, pp. 1-10. [Online]. Available: https://www.isaca.org/resources/isaca-journal/issues/2022/volume-3/better-cybersecurity-awareness-through-research</p>
         <p>[9]ThriveDX, “2022 Globial cybersecurity awareness training study,” Aug. 2022. [Online]. Available:https://thrivedx-2714581.hs-sites.com/cyber-security-awareness-study-download-0</p>
         <p>[10]C. Posey and M. Shoss, “Research: Why employees violate cybersecurity policies,” Harvard Bus. Rev., Jan. 20, 2022. [Online]. Available https://hbr.org/2022/01/research-why-employees-violate-cybersecurity-policies</p>
-
-    </section>
-
-    <section id="EXPLANATION">
-        <h2>EXPLANATION</h2>
-        <p><b>1.html:</b></p>
-        <p><b>Explanation</b>: This element identifies the HTML document's root.</p>
-        <p><b>What for:</b> The basic tag that encloses the entire HTML document is this one.</p>
-        <p><b>2.head:</b></p>
-        <p><b>Explanation:</b> This tag contains meta-information about HTML document.</p>
-        <p><b>What for:</b> It's where you include metadata like character set, viewport settings, and the document title.</p>
-        <p><b>3. title: </b></p>
-        <p><b>Explanation:</b> Sets the title of the HTML document, displayed in the browser tab.</p>
-        <p><b>What for:</b> To provide a meaningful title for your webpage for SEO and user experience.</p>
-        <p><b>4. style</b></p>
-        <p><b>Explanation:</b> Contains inline CSS styles for styling elements on the page.</p>
-        <p><b>What for:</b> For defining custom styles for the webpage, such as fonts, margins, and padding.</p>
-        <p><b>5. body:</b><p>
-        <p><b>Explanation:</b> Encloses the main content of the webpage.<p>
-        <p><b>What for:</b> To structure and present the main content visible to users.</p>
-        <p><b>6. header</b></p>
-        <p><b>Explanation:</b>Defines a header section within the body of the document.</p>
-        <p><b>What for:</b>To structure and style the header of your webpage, typically containing titles and author information.</p>
-        <p><b>7. footer</b><p>
-        <p><b>Explanation:</b>Defines a footer section at the end of the document.</p>
-        <p><b>Why Used:</b>To add information like copyright notices or contact details at the bottom of the webpage.</p>
-    </section>
 	
     <section id="Color">
         <h2>HTML Abuse</h2>
