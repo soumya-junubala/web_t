@@ -1,17 +1,59 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+ <style>
+       body {
+            padding: 20px;
+            font-family: Abril Fatface, Times New Roman;		
+            font-size: 16px;
+        }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
+        h1 {
+		    text-align: center
+            font-size: 36px;
+            color: #B22222;
+        }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+        h2 {
+            font-size: 23px;
+			text-align: center;
+            color: #00008B;
+        }
+
+        h3 {
+		    font-size: 21px;
+            text-align: center;
+			color: #800080;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        p {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        strong {
+            font-weight: bold;
+        }
+
+        a {
+            color: #007BFF;
+        }
+
+        #Color {
+            background-color: #E6E6FA;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        footer {
+            margin-top: 20px;
+			font-size: 21px;
+            text-align: center;
+			color: #DC143C
+        }
+		.center-content {
+            text-align: center;
+        }
+    </style>
