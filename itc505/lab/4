@@ -184,9 +184,9 @@
         <span style="color: #00008B;">#00008B</span> for a deep blue in secondary headings - <code>&lt;h2&gt;</code> , 
         and <span style="color: #800080;">#800080</span> for a rich purple accent for - <code>&lt;h3&gt;</code> .</p>
         <p><strong>Margin and Padding:</strong> A padding of 20px is applied to the body for a comfortable spacing around the content. This, along with center alignment, enhances the overall aesthetics.</p>
-		<p>#Color: Styles a specific element with the ID "Color," giving it a background color for which i have used #E6E6FA, padding as 10px, and border pages as 5px.</p>
-	    <p>For the unordered list - i have given list-style-type as disc and padding-left with 20px.</p>
-	    <p> The Color, font-size and font-family has been changed from the previous Lab2 </p>
+        <p>#Color: Styles a specific element with the ID "Color," giving it a background color for which i have used #E6E6FA, padding as 10px, and border pages as 5px.</p>
+	<p>For the unordered list - i have given list-style-type as disc and padding-left with 20px.</p>
+	<p> The Color, font-size and font-family has been changed from the previous Lab2 </p>
         <p>Any HTML choices made for purely aesthetic reasons in the previous version have been revised. For instance, h2 tags are now appropriately used for headings.</p>
 	</section>
 	
